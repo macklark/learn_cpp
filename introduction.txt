@@ -1,0 +1,20 @@
+This is the most brief introduction on how Cpp works, why is it called a compiled language ?
+
+Cpp syntax code -> Compiler -> Machine code
+
+This is why ☝
+
+The compiler, in between, is a piece of code—an algorithm that understands the code written by us, breaks it down, and transforms it into an executable that can run on any hardware.
+
+But why do we need the compiler to break down the code ?
+
+See, computers are not given a complicated brain like ours, which can perform numerous activities simultaneously. Computers can only understand information as bytes, and there are levels of abstractions, from machine-level language to a lower-level language to a higher-level language. We humans write either low-level languages or above, but a computer cannot comprehend them. Therefore, we need a system to break down our language into bytes so that the computer can understand and complete the activity.
+
+Now that we know why we need a compiler and have a brief understanding of how C++ works, let's explore different paradigms of programming that Cpp introduced. 
+Note: This is not specific to Cpp, but rather it applies generally to the entire computer science domain.
+
+-> OOP (Object Oriented Programming)
+A structural blueprint paradigm where data is pictured as object and every object is a instance of this structure or class.
+
+-> Generic Programming
+Data type themed paradigm of language
